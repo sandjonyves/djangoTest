@@ -33,7 +33,7 @@ DEBUG = True
 # Application definition
 
 # ALLOWED_HOSTS = ['127.0.0.1','locahost']
-# ALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','locahost']
+ALLOWED_HOSTS = ['.vercel.app','.now.sh','127.0.0.1','locahost']
 
 # Application definition
 # CORS_ORIGIN_ALLOW_ALL=False
